@@ -27,7 +27,6 @@ https://sharee-k.github.io/horiseon/
 
 ## Code Examples
 Example of HTML commenting and accessible alt attributes:
-
 ![HTML Example](./assets/images/comment-example.png)
 
 Example of CSS commenting and consolidating:
