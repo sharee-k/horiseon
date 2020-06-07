@@ -1,5 +1,5 @@
 # Horiseon - Code Refactor Challenge
-> The is a training project to test my ability to refactor code. I was given starter code and instructed to reformat the HTML file to ensure that it had proper semantic HTML properties, images had accessible alt attributes, and links functioned properly. For the CSS file, I was instructed to properly comment, cosolidate, and organize.
+> This is a training project to test my ability to refactor code. I was given starter code and instructed to reformat the HTML file to ensure that it had proper semantic HTML properties, images had accessible alt attributes, and links functioned properly. For the CSS file, I was instructed to properly comment, consolidate, and organize.
 
 ## Table of contents
 * [General info](#general-info)
