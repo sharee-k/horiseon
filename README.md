@@ -38,7 +38,7 @@ This project is finished for this training challenge.
 ## Inspiration
 Starter code by Xander Rapstine (https://github.com/Xandromus).
 
-Thank you to Malgorzata Rita Ły for the README templage [@flynerdpl](https://www.flynerd.pl/).
+Thank you to Malgorzata Rita Ły for the README template [@flynerdpl](https://www.flynerd.pl/).
 
 ## Contribution
 Sharee Burkeen (https://github.com/sharee-k)
