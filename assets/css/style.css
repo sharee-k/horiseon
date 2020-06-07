@@ -61,16 +61,6 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 /* Content Section Syle Start*/
 .content {
     width: 75%;
@@ -134,4 +124,15 @@ footer {
 
 footer h2 {
     font-size: 20px;
+}
+
+/* Utility Classes*/
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
