@@ -24,6 +24,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Navigation Bar Style Start*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -40,6 +41,7 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/* Navigation Bar Style End*/
 
 a {
     color: #ffffff;
